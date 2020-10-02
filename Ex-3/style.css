@@ -1,0 +1,26 @@
+ .body {
+    background-color: gray;
+}
+.red {
+    background-color: red;
+    padding-left: 20px;
+    height: 300px;
+}
+.yellow {
+    background-color: yellow;
+    height: 300px;
+}
+.blue {
+    background-color: blue;
+    height: 300px;
+}
+div {
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    box-sizing: border-box;
+    border-top: none;
+    border-right: 10px dotted;
+    border-bottom: 10px dotted;
+    border-left: 10px dotted;
+}

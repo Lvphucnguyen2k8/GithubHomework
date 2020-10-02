@@ -1,0 +1,35 @@
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+.div {
+    border: 3px solid black;
+    width: 20%;
+    margin: 0px 34px 50px 34px;
+    display: block flex;
+}
+.giatien{
+    font-weight: bold;
+}
+.nav-bar-container {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    padding: 20px; 
+    display: flex;  
+    justify-content: flex-start;
+    font-size: 20px; 
+}
+.nav-bar {
+    margin: 0 50px;
+}
+.nav-bar-container a:hover {
+    background-color: lime;
+}
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+}

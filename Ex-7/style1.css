@@ -1,0 +1,47 @@
+.nav-bar-container {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    padding: 20px; 
+    display: flex;  
+    justify-content: flex-start;
+    font-size: 20px; 
+}
+.nav-bar {
+    margin: 0 50px;
+}
+.nav-bar-container a:hover {
+    background-color: lime;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+.div {
+    border: 3px solid black;
+    width: 20%;
+    margin-bottom: 50px;
+    display: block flex;
+}
+.footer-container {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    width: 25%;
+}
+.text-bold {
+    font-weight: bold;
+}
+.text-center {
+    text-align: center;
+    background-color: lightgreen;
+    margin: 0px;
+    height: 60px;
+    padding-top: 30px;
+}
+.poster {
+    width: 1500px;
+    height: 850px;
+    margin: 50px 0px;
+}
